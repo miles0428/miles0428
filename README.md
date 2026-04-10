@@ -1,4 +1,4 @@
-![](https://yusufozturk.vercel.app/api?username=miles0428&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+![](https://yusufozturk.vercel.app/api?username=miles0428&hide_title=true&include_all_commits=false&count_private=true&show_icons=true&theme=dark)
 <br>
 ![](https://yusufozturk.vercel.app/api/top-langs/?username=miles0428&layout=compact&langs_count=10&hide=html,css,jupyter,shaderlab,hlsl&theme=dark)
 
